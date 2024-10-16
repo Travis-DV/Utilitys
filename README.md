@@ -7,3 +7,5 @@ General utility items within c#
 
 1. Put `using Utilitys` at the top of your `C#` files
 2. Call whatever is needed within your code
+
+Quick test
